@@ -3,6 +3,7 @@
 Blackjack is a casino banked game, meaning that players compete against the house rather than each other. The objective is to get a hand total of closer to 21 than the dealer without going over 21 (busting).
 
 **The Objective of Blackjack**
+
 Beat The Dealer. There are some misconceptions about the objective of the game of blackjack but at the simplest level all you are trying to do is beat the dealer.
 
 **How the game starts?**
